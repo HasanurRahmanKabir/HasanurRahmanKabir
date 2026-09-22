@@ -20,18 +20,18 @@
 
 ## About Me
 
-I'm a **Software Engineer** specializing in **PHP / Laravel** backend development and modern frontend engineering. I build scalable web applications, REST APIs and database-driven systems with a strong focus on clean, maintainable code.
+I'm a **Software Engineer** specializing in **PHP / Laravel** backend development and modern frontend engineering. I build scalable web applications, REST APIs, and database-driven systems with a strong focus on clean, maintainable code.
 
-I work across the full stack — **Laravel** and **MySQL** on the backend and **React, Inertia, Tailwind CSS, Bootstrap, HTML, CSS & JavaScript** on the frontend — delivering complete websites and web products from idea to production.
+I work across the full stack — **Laravel** on the backend, **MySQL** for the database, and **React, Inertia, Tailwind CSS, Bootstrap, HTML, CSS & JavaScript** on the frontend — delivering complete websites and web products from idea to production.
 
 - Building scalable Laravel applications, REST APIs & MySQL-driven systems
-- Creating responsive, user friendly interfaces with React, Inertia, Tailwind CSS & Bootstrap
+- Creating responsive, user-friendly interfaces with React, Inertia, Tailwind CSS & Bootstrap
 - Focused on clean architecture, API design & reliable backend solutions
-- Passionate about learning modern web technologies and shipping high quality products
+- Passionate about learning modern web technologies and shipping high-quality products
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend & Database
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -57,7 +57,7 @@ I work across the full stack — **Laravel** and **MySQL** on the backend and **
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=HasanurRahmanKabir&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
