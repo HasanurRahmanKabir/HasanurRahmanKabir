@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0F172A&height=200&section=header&text=Hasanur%20Rahman%20Kabir&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%7C%20PHP%20Laravel%20%26%20Frontend&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Hasanur Rahman Kabir" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F172A&amp;height=200&amp;section=header&amp;text=Hasanur%20Rahman%20Kabir&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Software%20Engineer%20%7C%20PHP%20Laravel%20%26%20Frontend&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" width="100%" alt="Hasanur Rahman Kabir" />
 </div>
 
 <br />
@@ -16,7 +16,7 @@
     <a href="mailto:hasanurrahmankabir@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=HasanurRahmanKabir&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=HasanurRahmanKabir&amp;label=Profile%20Views&amp;color=0ea5e9&amp;style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -65,14 +65,14 @@ I work across the full stack — **Laravel** and **MySQL** on the backend, and *
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HasanurRahmanKabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HasanurRahmanKabir&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanurRahmanKabir&theme=tokyonight" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanurRahmanKabir&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-official.vercel.app/api?username=HasanurRahmanKabir&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true&amp;count_private=true&amp;include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-official.vercel.app/api/top-langs/?username=HasanurRahmanKabir&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;count_private=true" height="165" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:111827&height=100&section=footer&text=Code.%20Build.%20Learn.%20Repeat.&fontSize=20&fontColor=38BDF8&fontAlignY=65&animation=fadeIn" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F172A&amp;height=100&amp;section=footer&amp;text=Code.%20Build.%20Learn.%20Repeat.&amp;fontSize=20&amp;fontColor=38BDF8&amp;fontAlignY=65&amp;animation=fadeIn" width="100%" alt="footer" />
 </div>
