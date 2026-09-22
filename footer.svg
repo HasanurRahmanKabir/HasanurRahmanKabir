@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="160" viewBox="0 0 1280 160">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="160" fill="url(#fbg)"/>
+  <path d="M0 36 C 220 18, 420 54, 640 36 S 1060 18, 1280 36" fill="none" stroke="url(#fline)" stroke-width="1.5"/>
+  <text x="640" y="92" text-anchor="middle" fill="#38BDF8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1">Code. Build. Learn. Repeat.</text>
+  <path d="M0 124 C 220 142, 420 106, 640 124 S 1060 142, 1280 124" fill="none" stroke="url(#fline)" stroke-width="1.5" opacity="0.65"/>
+</svg>
