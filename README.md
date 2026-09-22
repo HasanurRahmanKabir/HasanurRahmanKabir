@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Hasanur Rahman Kabir" />
+  <img src="./header.svg" width="100%" alt="Hasanur Rahman Kabir" />
 </div>
 
 <br />
@@ -72,5 +72,5 @@ I work across the full stack — **Laravel** and **MySQL** on the backend, and *
 ---
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Code. Build. Learn. Repeat." />
+  <img src="./footer.svg" width="100%" alt="Code. Build. Learn. Repeat." />
 </div>
