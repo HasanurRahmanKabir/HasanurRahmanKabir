@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="380" viewBox="0 0 1400 380">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#1E3A5F" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1400" height="380" fill="url(#bg)"/>
+  <rect width="1400" height="380" fill="url(#glow)"/>
+
+  <!-- top edge line -->
+  <rect x="0" y="0" width="1400" height="1" fill="#1E293B"/>
+
+  <!-- soft horizontal accent -->
+  <rect x="420" y="118" width="560" height="1" fill="url(#accent)"/>
+
+  <!-- name -->
+  <text x="700" y="185" text-anchor="middle" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Hasanur Rahman Kabir</text>
+
+  <!-- short center rule -->
+  <rect x="640" y="212" width="120" height="2" rx="1" fill="#38BDF8" opacity="0.85"/>
+
+  <!-- title -->
+  <text x="700" y="255" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="3">SOFTWARE ENGINEER</text>
+
+  <!-- bottom accent -->
+  <rect x="420" y="290" width="560" height="1" fill="url(#accent)" opacity="0.7"/>
+  <rect x="0" y="379" width="1400" height="1" fill="#1E293B"/>
+</svg>
