@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0F172A&height=200&section=header&text=Hasanur%20Rahman%20Kabir&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Hasanur Rahman Kabir" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0F172A&height=200&section=header&text=Hasanur%20Rahman%20Kabir&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%7C%20PHP%20Laravel%20%26%20Frontend&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Hasanur Rahman Kabir" />
 </div>
 
 <br />
@@ -14,15 +14,9 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:hasanurrahmankabir@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=HasanurRahmanKabir&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/github/followers/HasanurRahmanKabir?style=flat-square&logo=github&label=Followers&color=24292e" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/HasanurRahmanKabir?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=24292e" alt="Stars" />
-    <img src="https://img.shields.io/github/repos/HasanurRahmanKabir?style=flat-square&logo=github&label=Repos&color=24292e" alt="Repos" />
   </p>
 
 </div>
@@ -31,56 +25,51 @@
 
 ## About Me
 
-Software Engineer building reliable web applications across backend and frontend.
+I'm a **Software Engineer** specializing in **PHP / Laravel** backend development and modern frontend engineering. I build scalable web applications, REST APIs, and database-driven systems with a strong focus on clean, maintainable code.
 
-I work with **Laravel**, **PHP**, and **MySQL** on the server side, and **React**, **Bootstrap**, and **Tailwind CSS** on the client side. I also design and test **REST APIs** with **Postman**, and focus on clean architecture, maintainable code, and practical product delivery.
+I work across the full stack — **Laravel** and **MySQL** on the backend, and **React, Inertia, Tailwind CSS, Bootstrap, HTML, CSS & JavaScript** on the frontend — delivering complete websites and web products from idea to production.
+
+- Building scalable Laravel applications, REST APIs & MySQL-driven systems
+- Creating responsive, user-friendly interfaces with React, Inertia, Tailwind CSS & Bootstrap
+- Focused on clean architecture, API design & reliable backend solutions
+- Passionate about learning modern web technologies and shipping high-quality products
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,bootstrap,tailwind,html,css,js,git,github,postman,vite&perline=7&theme=dark" alt="Tech Stack" />
-</p>
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Laravel, PHP, MySQL, REST APIs |
-| **Frontend** | React, Bootstrap, Tailwind CSS, HTML, CSS, JavaScript |
-| **Tools** | Git, GitHub, Postman, Composer, Vite |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
   <img src="https://streak-stats.demolab.com/?user=HasanurRahmanKabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
   <br /><br />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanurRahmanKabir&theme=tokyonight" height="180" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanurRahmanKabir&theme=tokyonight" height="180" alt="Top Languages" />
-
 </div>
-
----
-
-## Contact
-
-Open to opportunities in web development, backend systems, and full-stack product work.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasanurrahmankabir">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hasanurrahmankabir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HasanurRahmanKabir">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 ---
 
