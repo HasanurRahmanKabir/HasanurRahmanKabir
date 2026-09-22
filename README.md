@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F172A&amp;height=200&amp;section=header&amp;text=Hasanur%20Rahman%20Kabir&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Software%20Engineer%20%7C%20PHP%20Laravel%20%26%20Frontend&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" width="100%" alt="Hasanur Rahman Kabir" />
-</div>
-
-<br />
-
-<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/218740764?v=4" width="140" height="140" alt="Hasanur Rahman Kabir" style="border-radius:50%;" />
+  <h1>Hasanur Rahman Kabir</h1>
+  <h3>Software Engineer | PHP Laravel & Frontend</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/hasanurrahmankabir">
@@ -18,7 +15,6 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=HasanurRahmanKabir&amp;label=Profile%20Views&amp;color=0ea5e9&amp;style=for-the-badge" alt="Profile Views" />
   </p>
-
 </div>
 
 ---
@@ -74,5 +70,5 @@ I work across the full stack — **Laravel** and **MySQL** on the backend, and *
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F172A&amp;height=100&amp;section=footer&amp;text=Code.%20Build.%20Learn.%20Repeat.&amp;fontSize=20&amp;fontColor=38BDF8&amp;fontAlignY=65&amp;animation=fadeIn" width="100%" alt="footer" />
+  <b>Code. Build. Learn. Repeat.</b>
 </div>
