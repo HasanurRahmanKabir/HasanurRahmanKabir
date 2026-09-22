@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Hasanur Rahman Kabir" />
+  <img src="./header.svg?v=2" width="100%" alt="Hasanur Rahman Kabir" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/hasanurrahmankabir">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:hasanurrahmankabr@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hasanurrahmankabr@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=HasanurRahmanKabir&amp;label=Profile%20Views&amp;color=0ea5e9&amp;style=for-the-badge" alt="Profile Views" />
@@ -69,5 +69,5 @@ I work across the full stack — **Laravel** and **MySQL** on the backend, and *
 ---
 
 <div align="center">
-  <img src="./footer.svg" width="100%" alt="Code. Build. Learn. Repeat." />
+  <img src="./footer.svg?v=2" width="100%" alt="Code. Build. Learn. Repeat." />
 </div>
