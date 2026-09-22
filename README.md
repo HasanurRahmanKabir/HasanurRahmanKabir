@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/218740764?v=4" width="140" height="140" alt="Hasanur Rahman Kabir" style="border-radius:50%;" />
-  <h1>Hasanur Rahman Kabir</h1>
-  <h3>Software Engineer | PHP Laravel & Frontend</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0F172A&amp;height=160&amp;section=header&amp;text=Hasanur%20Rahman%20Kabir&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Software%20Engineer%20%7C%20PHP%20Laravel%20%26%20Frontend&amp;descAlignY=65&amp;descSize=18" width="100%" alt="Hasanur Rahman Kabir" />
+</div>
 
+<br />
+
+<div align="center">
   <p>
     <a href="https://www.linkedin.com/in/hasanurrahmankabir">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -70,5 +72,5 @@ I work across the full stack — **Laravel** and **MySQL** on the backend, and *
 ---
 
 <div align="center">
-  <b>Code. Build. Learn. Repeat.</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0F172A&amp;height=90&amp;section=footer&amp;text=Code.%20Build.%20Learn.%20Repeat.&amp;fontSize=22&amp;fontColor=38BDF8&amp;fontAlignY=55" width="100%" alt="Code. Build. Learn. Repeat." />
 </div>
